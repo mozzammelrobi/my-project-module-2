@@ -1,0 +1,28 @@
+.header {
+    color: rgb(255, 100, 3);
+    height: 200px;
+    /* background-color: chartreuse; */
+    background-image: url('../mypic.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+    
+}
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+.blog {
+    border: 10px solid tomato;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+.second {
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+li {
+    display: inline;
+}
